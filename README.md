@@ -10,5 +10,5 @@ git clone https://github.com/smurthyn/Rocketmiles.git
 cd rocketmiles-ui
 mvn clean test
 
-Alternatively tests can be run from the IDE.
+Alternatively tests can be run from the IDE after cloning the repo.
 Right click on RocketmilesSearchFunctionTest and select Run 'RocketmilesSearchFunctionTest'.
