@@ -14,6 +14,7 @@ public class RocketmilesHomePage {
     private String homePageUrl;
     WebDriverWait wait;
 
+//    This is here only for demonstration purpose
 //    While finding elements using `@FindBy`, you are implicitly waiting for those
 //    elements to be present before attempting to act on them.
 //    @FindBy(css = ".rm-btn-orange > span:nth-child(1)")
