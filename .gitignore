@@ -1,0 +1,22 @@
+# IntelliJ #
+.idea/
+*.iml
+
+# Maven Directories #
+rocketmiles-ui/target/
+test-results/
+log/
+target/
+
+# Properties #
+environment.properties
+
+# OS X #
+.DS_Store
+
+# Driver #
+*.zip
+*.jar
+*.tar
+*.rar
+*.dmg
